@@ -5,3 +5,4 @@ llama-index-embeddings-nebius
 python-dotenv
 PyPDF2
 pydantic
+requests>=2.33.0 # not directly required, pinned by Snyk to avoid a vulnerability
